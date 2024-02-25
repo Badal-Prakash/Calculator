@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import * as math from "mathjs";
-import { BiDotsVerticalRounded } from "react-icons/bi";
 import { HiMiniCodeBracket } from "react-icons/hi2";
 import { MdModeNight } from "react-icons/md";
 import { BiSolidSun } from "react-icons/bi";
