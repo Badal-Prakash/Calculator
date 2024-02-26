@@ -1,1 +1,1 @@
-https://calculator-git-main-badal-prakashs-projects.vercel.app/
+https://calculator-seven-navy.vercel.app/
